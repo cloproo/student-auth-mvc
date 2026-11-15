@@ -1,0 +1,9 @@
+{
+  "name": "بوابة الطالب",
+  "short_name": "بوابة الطالب",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#F3F6FA",
+  "theme_color": "#176B87",
+  "description": "نظام المصادقة الطلابي"
+}
